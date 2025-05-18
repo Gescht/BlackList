@@ -1,4 +1,4 @@
-## Interface: 20100
+## Interface: 11200
 ## Title: BlackList Continued
 ## Version: 1.02
 ## Author: Logan
